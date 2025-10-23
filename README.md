@@ -1,4 +1,4 @@
-# Projeto Autottu
+# Projeto Autottu - Compliance, Quality Assurance & Tests
 
 ## Integrantes
 
